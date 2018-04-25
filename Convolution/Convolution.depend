@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478469343 source:c:\users\Παντελής\desktop\convolution\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
